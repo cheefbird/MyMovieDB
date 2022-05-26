@@ -1,0 +1,1 @@
+export 'model/discover_movie_model.dart';
